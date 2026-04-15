@@ -112,7 +112,7 @@
     "proxy-agent": "^6.5.0",
     "tar-fs": "^3.0.9",
     "yargs": "^17.7.2",
-    "semver": "^7.7.2"
+    "semver": "^7.7.4"
   },
   "devDependencies": {
     "@types/debug": "4.1.12",
