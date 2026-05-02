@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@schematics/angular": "19.2.13",
-    "@angular/cli": "19.2.13"
+    "@angular/cli": "21.2.9"
   },
   "files": [
     "lib",
